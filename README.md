@@ -24,7 +24,7 @@ Este é um sistema web desenvolvido em PHP com padrão MVC para a disciplina de 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/portal-educacional-final.git
+   git clone https://github.com/gabeduarte97/Projeto_Portal_Educacional.git
    ```
 
 2. Copie para seu diretório `htdocs` do XAMPP:
@@ -53,7 +53,3 @@ Você pode se cadastrar com seu e-mail, ou alterar manualmente um usuário diret
 - `app/view` – Layouts e templates
 - `public/` – Arquivos públicos, como CSS e index.php
 - `app/core/` – Arquivos de estrutura MVC (roteador, segurança, etc.)
-
-## Licença
-
-Projeto acadêmico sem fins comerciais.

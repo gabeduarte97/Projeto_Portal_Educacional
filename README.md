@@ -29,7 +29,7 @@ Este é um sistema web desenvolvido em PHP com padrão MVC para a disciplina de 
 
 2. Copie para seu diretório `htdocs` do XAMPP:
    ```bash
-   cp -r portal-educacional-final /Applications/XAMPP/xamppfiles/htdocs/
+   cp -r portal-educacional/Applications/XAMPP/xamppfiles/htdocs/
    ```
 
 3. Importe o arquivo `backup_banco.sql` para seu MySQL:
@@ -39,7 +39,7 @@ Este é um sistema web desenvolvido em PHP com padrão MVC para a disciplina de 
 
 5. Acesse o sistema:
    ```
-   http://localhost/portal-educacional-final/public/
+   http://localhost/portal-educacional/public/
    ```
 
 ## Credenciais de acesso
